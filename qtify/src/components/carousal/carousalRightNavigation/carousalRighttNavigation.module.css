@@ -1,0 +1,9 @@
+.rightnavi {
+    position: absolute;
+    top: 40%;
+    right: 0;
+    transform: translateY(-50%);
+    cursor: pointer;
+    z-index: 10;
+  }
+  
